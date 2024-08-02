@@ -1,6 +1,6 @@
 # This is simple CRUD application with ag-grid integration and inline-editing inside it. It is fully accessible.
 
-This is neccessary to having xampp control panel installed and created database named students inside it and having all class_1 to class_12_B tables inside this table.
+Note:- This is neccessary to having a sql database in at localhost with any Control panel like XAMPP Control Panel for database API.
 
 first you have to start database server from xampp control panel.
 
